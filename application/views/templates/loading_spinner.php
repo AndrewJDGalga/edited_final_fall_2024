@@ -1,0 +1,1 @@
+<img class="loading-spinner invisible" src="assets/images/diamond-expensive-precious-gemstone-spinning-j0gqkrmgppf1wihw.gif" alt="Spining gem while loading">
